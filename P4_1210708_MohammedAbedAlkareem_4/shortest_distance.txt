@@ -1,0 +1,33 @@
+
+
+==>For Search #1: 
+
+Using Dijkstra Algorithm:
+Source City Not Found.
+
+Using BFS Algorithm:
+
+Source City Not Found.
+______________________________________________________________________________________________________________________________________________
+
+==>For Search #2: 
+
+Using Dijkstra Algorithm:
+Shortest Path From Bethlehem To Jenin: -> Bethlehem (0 Km) -> Jerusalem (9 Km) -> Ramallah (30 Km) -> Salfit (68 Km) -> Tulkarem (121 Km) -> Haifa (178 Km) -> Jenin (227 Km) 
+shortest Distance: 227
+
+Using BFS Algorithm:
+
+Path From Bethlehem To Jenin: Bethlehem -> Jaffa -> Qalqilya -> Tulkarem -> Haifa -> Jenin
+______________________________________________________________________________________________________________________________________________
+
+==>For Search #3: 
+
+Using Dijkstra Algorithm:
+Shortest Path From Nablus To Jericho: -> Nablus (0 Km) -> Tubas (21 Km) -> Jericho (73 Km) 
+shortest Distance: 73
+
+Using BFS Algorithm:
+
+Path From Nablus To Jericho: Nablus -> Jericho
+______________________________________________________________________________________________________________________________________________
